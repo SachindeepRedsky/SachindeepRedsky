@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SachindeepRedsky
 - 👀 I’m interested in Android, Nativescript, React-Native, VueJS and ReactJS.
 - 🌱 I’m currently learning Xamarin and Ionic.
-- 💞️ I’m looking to collaborate on Nativescript native JWPlayer sdks and web JWPlayer.
+<!--- 💞️ I’m looking to collaborate on Nativescript native JWPlayer sdks and web JWPlayer.--->
 - 📫 How to reach me ...
 
 contact me on 
