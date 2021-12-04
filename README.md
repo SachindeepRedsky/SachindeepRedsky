@@ -5,8 +5,8 @@
 - 📫 How to reach me ...
 
 contact me on 
-- Skype at sachindeep50@gmail.com
-- Gmail at sachindeep50@gmail.com
+- Skype at sachindeep.redsky@gmail.com
+- Gmail at sachindeep.redsky@gmail.com
 
 <!---
 SachindeepRedsky/SachindeepRedsky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
